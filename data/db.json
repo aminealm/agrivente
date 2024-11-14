@@ -192,6 +192,12 @@
       "password": "$2a$10$/0wT6LUfXcl8opINJ3RT/ObkgTuIg3zUjOHTG.Wnq0Ajjv2WaU3aS",
       "name": "mohamed",
       "id": 1
+    },
+    {
+      "email": "simo@gmail.com",
+      "password": "$2a$10$Hxd1.SYUGC6fxiBAj5Skv.KEY8IAoci9mlMp/I6T6TzqwR8NPbgKq",
+      "name": "simo",
+      "id": 2
     }
   ]
 }

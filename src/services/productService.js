@@ -3,7 +3,7 @@ export async function getProductList(searchTerm) {
     `${process.env.REACT_APP_HOST}/444/products?name_like=${searchTerm ? searchTerm : ""}`
   );
     if (!response.ok) {
-      throw { message : response.statusText,status : response.status }
+      throw { message : response.statusText,status : response.status } //eslint-disable-line
     }
 
   const data = await response.json();
