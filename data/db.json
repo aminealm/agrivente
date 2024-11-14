@@ -1,0 +1,197 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Tomates Bio",
+      "overview": "Tomates fraîches et biologiques récoltées avec soin.",
+      "long_description": "Nos tomates biologiques sont cultivées sans l'utilisation de pesticides ou d'engrais synthétiques. Riches en nutriments et en saveur, ces tomates sont parfaites pour les salades, les sauces, et plus encore.",
+      "price": 3.99,
+      "poster": "https://images.unsplash.com/photo-1658319204254-7ea104bca2e5?q=80&w=1781&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.5,
+      "in_stock": true,
+      "date_recolte": "2024-03-01",
+      "bio": true,
+      "size": 5
+    },
+    {
+      "id": 10002,
+      "name": "Œufs de plein air",
+      "overview": "Œufs frais de poules heureuses en plein air.",
+      "long_description": "Nos œufs de plein air proviennent de poules qui se promènent librement, assurant un choix plus sain et plus éthique. Riches en saveur et en nutriments, ces œufs sont parfaits pour votre petit-déjeuner.",
+      "price": 2.49,
+      "poster": "https://images.unsplash.com/photo-1491524062933-cb0289261700?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.8,
+      "in_stock": true,
+      "date_pondu": "2024-02-28",
+      "bio": false,
+      "size": 2
+    },
+    {
+      "id": 10003,
+      "name": "Myrtilles Bio",
+      "overview": "Myrtilles biologiques douces et juteuses.",
+      "long_description": "Cueillies à maturité, nos myrtilles biologiques débordent de saveur. Ces baies riches en antioxydants sont idéales pour grigratingr, cuisiner ou ajouter à votre yaourt du matin.",
+      "price": 5.99,
+      "poster": "https://images.unsplash.com/photo-1628104017776-50e38eb63041?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.7,
+      "in_stock": true,
+      "date_recolte": "2024-03-03",
+      "bio": true,
+      "size": 3
+    },
+    {
+      "id": 10004,
+      "name": "Miel des apiculteurs locaux",
+      "overview": "Miel pur et naturel des apiculteurs locaux.",
+      "long_description": "Notre miel, provenant de sources locales, est produit par des apiculteurs dédiés à des pratiques durables et éthiques. Profitez de la douceur dorée et pure de ce miel.",
+      "price": 7.99,
+      "poster": "https://images.unsplash.com/photo-1491524062933-cb0289261700?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.6,
+      "in_stock": true,
+      "date_recolte": "2024-02-25",
+      "bio": true,
+      "size": 2
+    },
+    {
+      "id": 10005,
+      "name": "Épinards fraîchement récoltés",
+      "overview": "Épinards riches en nutriments directement de la ferme.",
+      "long_description": "Nos épinards sont fraîchement récoltés et regorgent de vitamines et de minéraux. Ajoutez cette feuille verte polyvalente à vos salades, smoothies, ou plats cuisinés pour un coup de pouce santé.",
+      "price": 2.99,
+      "poster": "https://images.unsplash.com/photo-1658319204254-7ea104bca2e5?q=80&w=1781&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "in_stock": true,
+      "date_recolte": "2024-03-05",
+      "bio": false,
+      "size": 4
+    },
+    {
+      "id": 10006,
+      "name": "Épis de maïs sucrés",
+      "overview": "Maïs sucré et juteux pour les BBQ d'été.",
+      "long_description": "Nos épis de maïs sucré sont parfaits pour griller ou faire bouillir en été. Chaque grain éclate de douceur naturelle, en faisant une addition délicieuse à vos repas.",
+      "price": 1.79,
+      "poster": "https://images.unsplash.com/photo-1491524062933-cb0289261700?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.9,
+      "in_stock": true,
+      "date_recolte": "2024-03-07",
+      "bio": false,
+      "size": 5
+    },
+    {
+      "id": 10007,
+      "name": "Pommes fraîchement récoltées",
+      "overview": "Pommes croustillantes et délicieuses directement du verger.",
+      "long_description": "Nos pommes sont cueillies à la perfection, assurant une bouchée croustillante et sucrée. Parfaites pour grigratingr, cuisiner, ou pour faire du cidre de pomme rafraîchissant.",
+      "price": 4.49,
+      "poster": "https://images.unsplash.com/photo-1658319204254-7ea104bca2e5?q=80&w=1781&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.6,
+      "in_stock": true,
+      "date_recolte": "2024-03-10",
+      "bio": true,
+      "size": 3
+    },
+    {
+      "id": 10008,
+      "name": "Carottes anciennes",
+      "overview": "Carottes anciennes colorées et savoureuses.",
+      "long_description": "Découvrez les couleurs vibrantes et les saveurs uniques des carottes anciennes. Ces carottes ne sont pas seulement délicieuses, elles ajoutent également une touche de couleur à vos repas.",
+      "price": 3.29,
+      "poster": "https://images.unsplash.com/photo-1491524062933-cb0289261700?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.5,
+      "in_stock": true,
+      "date_recolte": "2024-03-12",
+      "bio": true,
+      "size": 4
+    },
+    {
+      "id": 10009,
+      "name": "Avocats Bio",
+      "overview": "Avocats crémeux et riches en nutriments.",
+      "long_description": "Nos avocats biologiques sont riches en graisses saines et en nutriments. Profitez-en sur du pain grillé, dans les salades, ou comme ingrédient parfait pour votre recette de guacamole préférée.",
+      "price": 2.99,
+      "poster": "https://images.unsplash.com/photo-1658319204254-7ea104bca2e5?q=80&w=1781&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.7,
+      "in_stock": true,
+      "date_recolte": "2024-03-15",
+      "bio": true,
+      "size": 3
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10001,
+      "name": "Tomates Bio",
+      "overview": "Tomates fraîches et biologiques récoltées avec soin.",
+      "long_description": "Nos tomates biologiques sont cultivées sans l'utilisation de pesticides ou d'engrais synthétiques. Riches en nutriments et en saveur, ces tomates sont parfaites pour les salades, les sauces, et plus encore.",
+      "price": 3.99,
+      "poster": "https://images.unsplash.com/photo-1658319204254-7ea104bca2e5?q=80&w=1781&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.5,
+      "in_stock": true,
+      "date_recolte": "2024-03-01",
+      "bio": true,
+      "size": 5
+    },
+    {
+      "id": 10002,
+      "name": "Œufs de plein air",
+      "overview": "Œufs frais de poules heureuses en plein air.",
+      "long_description": "Nos œufs de plein air proviennent de poules qui se promènent librement, assurant un choix plus sain et plus éthique. Riches en saveur et en nutriments, ces œufs sont parfaits pour votre petit-déjeuner.",
+      "price": 2.49,
+      "poster": "https://images.unsplash.com/photo-1491524062933-cb0289261700?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.8,
+      "in_stock": true,
+      "date_pondu": "2024-02-28",
+      "bio": false,
+      "size": 2
+    },
+    {
+      "id": 10003,
+      "name": "Myrtilles Bio",
+      "overview": "Myrtilles biologiques douces et juteuses.",
+      "long_description": "Cueillies à maturité, nos myrtilles biologiques débordent de saveur. Ces baies riches en antioxydants sont idéales pour grigratingr, cuisiner ou ajouter à votre yaourt du matin.",
+      "price": 5.99,
+      "poster": "https://images.unsplash.com/photo-1628104017776-50e38eb63041?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.7,
+      "in_stock": true,
+      "date_recolte": "2024-03-03",
+      "bio": true,
+      "size": 3
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Œufs de plein air",
+          "overview": "Œufs frais de poules heureuses en plein air.",
+          "long_description": "Nos œufs de plein air proviennent de poules qui se promènent librement, assurant un choix plus sain et plus éthique. Riches en saveur et en nutriments, ces œufs sont parfaits pour votre petit-déjeuner.",
+          "price": 2.49,
+          "poster": "https://images.unsplash.com/photo-1491524062933-cb0289261700?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "rating": 4.8,
+          "in_stock": true,
+          "date_pondu": "2024-02-28",
+          "bio": false,
+          "size": 2
+        }
+      ],
+      "amount_paid": 2.49,
+      "quantity": 1,
+      "user": {
+        "name": "mohamed",
+        "email": "mohamed@gmail.com",
+        "id": 1
+      },
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "mohamed@gmail.com",
+      "password": "$2a$10$/0wT6LUfXcl8opINJ3RT/ObkgTuIg3zUjOHTG.Wnq0Ajjv2WaU3aS",
+      "name": "mohamed",
+      "id": 1
+    }
+  ]
+}
